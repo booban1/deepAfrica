@@ -1,0 +1,317 @@
+.body
+{
+   background-color: rgb(253, 253, 253);
+}
+.contain
+{
+    /* padding: 0 20px 0 20px; */
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.header-pad
+{
+    background-color: rgb(253, 253, 253);
+   
+}
+.logo-sector
+{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 20px; 
+    
+}
+img
+{
+    max-width: 250px;
+    max-width: 250px;
+}
+.nav1
+{
+    float: right;
+}
+.contact-details
+{
+    color: rgb(131, 131, 131);
+    margin: 10px 50px 50px 0 ;
+}
+.links1
+{
+    font-size: 16px;
+    font-weight: bolder;
+    color: rgb(3, 3, 49)
+}
+.ion-android-call 
+{
+    margin: 0 10px 0 10px;  
+}
+.icon1
+{
+    margin: 0 10px 0 10px; 
+}
+ .ion-email
+{
+    margin: 0 10px 0 10px; 
+}
+.ion-android-person
+{
+    margin: 0 10px 0 10px; 
+}
+.link1
+{
+    margin: 0 20px 0 20px; 
+    -webkit-transition-duration: 0.1s; Safari 
+    transition-duration: 0.1s;
+    cursor: pointer;
+
+}
+.link1:hover
+{
+    margin: 0 20px 0 20px; 
+    /* -webkit-animation: ease; */
+    font-size: 18px;
+}
+.body0
+{
+    background-color: rgb(212, 212, 212);
+    padding-bottom: 20px;
+    
+}
+.body1
+{
+    display: flex;
+    max-height: max-content;
+}
+.big-text1
+{
+    width: 500px;
+    height: 400px;
+    margin-left: 18%;
+    margin-top: 18%;
+    
+    
+}
+.big-text1a
+{
+    font-size: 50px;
+    color: rgb(3, 3, 49);
+    font-weight: bolder;
+    line-height: 120%;
+    max-width: 500px;
+    word-wrap: normal;
+}
+.small-text1a
+{
+    font-size: 20px;
+    color: rgb(3, 3, 49);
+    
+    line-height: 120%;
+}
+hr
+{
+    border-top: 10px solid orange;
+    width: 60px;
+}
+.btn1
+{
+    border-radius: 10px;
+    background-color: orange;
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    
+    width: 300px;
+    height: 70px;
+    box-shadow: 0px 0px 5px #000000;
+    border-width: 0px;
+    -webkit-transition-duration: 0.5s; Safari 
+    transition-duration: 0.5s;
+    margin: 5px;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.btn1:hover
+{
+    background-color: rgb(243, 200, 122);
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 300px;
+    height: 70px;
+    box-shadow: 0px 0px 5px #000000;
+    border-width: 0px;
+    cursor: pointer;
+
+} 
+
+.image1
+{
+    width: 700px;
+    height: 300px; 
+    margin: 8% 2% 2% 8%;
+}
+.disp-image
+{
+    min-width: 100%;
+}
+.area2
+{
+    height: 100px;
+}
+.holder1
+{
+    background-color: rgb(3, 3, 49);
+    color: white;
+    float: right;
+    height: 70px;
+    width: 1000px;
+    justify-items: center;
+}
+.links2
+{
+list-style: none;
+display: flex;
+
+}
+.li-links2
+{
+    margin: auto;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.button-sect
+{
+    display: flex;
+}
+.circle
+{
+    height: 70px;
+    width: 70px;
+}
+.play-image
+{
+    max-width: 50px;
+    margin: 15px 10px 10px 10px;
+}
+.area3
+{
+    display: flex;
+    margin: 80px;
+}
+.small-text3, .big-text3
+{
+    font-size: 36px;
+}
+.big-text3
+{
+    font-weight: bolder;
+}
+.para3
+{
+    width: 300px;
+    line-height: 120%;
+}
+.bold-para3
+{
+    font-weight: 500;
+}
+.link3
+{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.patners-sect
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
+.patners-images
+{
+    height: 70px;
+    
+}
+.patner-img
+{
+    height: 100%;
+    margin: 20px;
+}
+.body3
+{
+    margin: 100px;
+    
+    display: block;
+}
+.head-body3
+{
+    margin: 0 auto;
+}
+.capt-text, .big-text1aa
+{
+    text-align: center; 
+}
+.big-text1aa
+{
+    font-size: 50px;
+    color: rgb(3, 3, 49);
+    font-weight: bolder;
+    line-height: 120%;
+    text-align: center;
+}
+.capt-text
+{
+    color: orange;
+}
+.txt-quoted
+{
+    color: rgb(131, 131, 131);
+    padding: 0 150px;
+    text-align: center;
+}
+.ln-normal1, .ln-bold1
+{
+    color: #ffff;
+}
+.ln-bold1
+{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.ln-link1
+{
+    color: orange;
+    font-size: 20px;
+}
+.link-text1
+{
+    padding-top: 170px;
+    padding-left: 20px;
+
+}
+.link-img
+{
+    background-image: url(images/person.jpg);
+    height: 300px;
+    width: 300px;
+    opacity: 100%;  
+    -webkit-transition-duration: 0.5s; Safari 
+    transition-duration: 0.5s; 
+    margin: 20px;
+}
+.link-img:hover
+{
+    background-image: url(images/person.jpg);
+    height: 300px;
+    width: 300px;
+    opacity: 60%;  
+}
+.image-sect1
+{
+     display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
